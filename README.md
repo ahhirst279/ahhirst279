@@ -1,4 +1,9 @@
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ahhirst279&left_text=Profile%20Visits" alt="Profile Visits" />
+</p>
+
 # 👋 Hey there, I'm Harshit Srivastava
+
 
 ---
 
@@ -6,9 +11,9 @@
 
 - 👨‍💻 **Senior Software Engineer** @ [Optum Global Solutions](https://www.optum.in/)
 - 🧰 **Tech Stack:** Java | Spring Boot | Angular | MySQL  
-- 💼 Passionate full-stack developer focused on scalable, clean, and maintainable code  
-- 🌱 Currently exploring: Azure • Databricks • Microservices • DevOps    
-- ⚙️ Life's Clean-Install-Build in progress
+- 💼 Passionate **Full-Stack Developer** focused on **Scalable**, **Clean**, and **Maintainable** code  
+- 🌱 Currently exploring: **Azure • Databricks • Microservices • DevOps**   
+- ⚙️ Motto: `Clean Code. Consistent Delivery. Continuous Learning.`
 
 ---
 
@@ -113,15 +118,18 @@
 
 ## 📈 GitHub Stats
 
-![Harshit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahhirst279&show_icons=true&theme=tokyonight)
+<p float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahhirst279&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahhirst279&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
-
+<a href="mailto:dev.harshit.1024@gmail.com">
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email" />
+</a>
 <a href="http://linkedin.com/in/harshit-srivastava-377737170" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40" height="40" alt="LinkedIn" />
 </a>
-<a href="mailto:de.harshit.1024@gmail.com">
-  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="40" height="40" alt="Email" />
-</a>
+
