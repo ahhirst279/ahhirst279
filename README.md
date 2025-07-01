@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 👨‍💻 **Senior Software Engineer** @ [Optum Global Solutions](https://www.optum.in/)
+- 👨‍💻 **Software Engineering Lead** @ [Optum Global Solutions](https://www.optum.in/)
 - 🧰 **Tech Stack:** Java | Spring Boot | Angular | MySQL  
 - 💼 Passionate **Full-Stack Developer** focused on **Scalable**, **Clean**, and **Maintainable** code  
 - 🌱 Currently exploring: **Azure • Databricks • Microservices • DevOps**   
